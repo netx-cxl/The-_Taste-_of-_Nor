@@ -1,0 +1,11 @@
+{
+  "id":"The_Taste_of_Nor",
+  "version": "0.1",
+  "name": "$The_Taste_of_Nor:mod:name",
+  "description": "$The_Taste_of_Nor:mod:description",
+  "entry": "",
+  "texts": "text",
+  "requires": {},
+  "before": [],
+  "thumbnail": "preview.png"
+}
